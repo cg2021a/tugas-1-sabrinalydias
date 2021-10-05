@@ -6,6 +6,10 @@ Kelas : Grafkom-A
 
 Benda : Kertas
 
+#### Hasil :
+![image](https://user-images.githubusercontent.com/83162422/136071202-db42ad78-2bf4-430d-a127-178a7e434b79.png)
+(kiri)tampak depan, (kanan)tampak kiri
+
 #### Tampak Depan Atas :
 ![image](https://user-images.githubusercontent.com/83162422/134218378-1337a8d4-b972-4d20-a178-b853521e2177.png)
 
