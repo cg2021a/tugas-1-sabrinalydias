@@ -7,8 +7,8 @@ Kelas : Grafkom-A
 Benda : Kertas
 
 #### Hasil :
-![image](https://user-images.githubusercontent.com/83162422/136071202-db42ad78-2bf4-430d-a127-178a7e434b79.png)
-(kiri)tampak depan, (kanan)tampak kiri
+![image](https://user-images.githubusercontent.com/83162422/136074565-9f3076d6-c45f-4814-bc88-5aeb62cbf9e2.png)
+(Kiri)tampak depan, (Kanan)tampak kiri
 
 #### Tampak Depan Atas :
 ![image](https://user-images.githubusercontent.com/83162422/134218378-1337a8d4-b972-4d20-a178-b853521e2177.png)
