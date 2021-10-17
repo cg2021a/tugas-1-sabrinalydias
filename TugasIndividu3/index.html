@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabrina Lydia S - Tugas 3 Grafkom</title>
+    <script src="js/three.min.js"></script>
+    <script src="js/controls/OrbitControls.js"></script>
+    <style>
+        * {
+            font-family: Arial, sans-serif;
+            padding: 0;
+            margin: 0;
+        }
+        button {
+            color: rgb(255, 255, 255);
+            position: absolute;
+            display: block;
+            background-color: rgb(126, 156, 255);
+            border-radius: 10px;
+            padding: 5px;
+            margin-top: 1%;
+            margin-left: 2%;
+        }
+
+        .score {
+            color: black;
+            position: absolute;
+            background-color: pink;
+            border-radius: 10px;
+            padding: 5px;
+            margin-top: 5%;
+            margin-left: 2%;
+            box-shadow: 0 3px 7px 0 rgb(255, 173, 233);
+        }
+    </style>
+</head>
+<body>
+    <h2 class="score">Score:
+        <a id="score_id">0</a>
+    </h2>
+    <br>
+    <button id="btn_id">Reset Game</button>
+</body>
+<script src="js/main.js"></script>
+</html>
+
